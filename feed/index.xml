@@ -12,12 +12,20 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Compra-venta productos hortofrutícolas</description>
-	<lastBuildDate>Sat, 28 Dec 2024 21:29:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Dec 2024 20:31:10 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
+
+<image>
+	<url>./../wp-content/uploads/2024/04/cropped-Logo-F_C.png</url>
+	<title>Frutas Compostela</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
